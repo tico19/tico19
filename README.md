@@ -1,7 +1,7 @@
 # About
 - 👋 Hi, I’m @tico19
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Python
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
